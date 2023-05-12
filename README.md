@@ -3,6 +3,8 @@
 
 ![counter](https://enmt4k2pji5kbho.m.pipedream.net)
 
+[GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 <!--
 **T-dex/T-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
