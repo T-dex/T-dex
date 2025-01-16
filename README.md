@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-![counter](https://enmt4k2pji5kbho.m.pipedream.net)
-
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 <!--
